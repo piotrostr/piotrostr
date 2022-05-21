@@ -2,11 +2,10 @@
   Piotr Ostrowski
 </h1>
 <div align="center">
- Full-stack developer from Płock, Poland, looking forward to making the world a better place.
- In crypto since 2017, passionate about developing smart contracts and deep learning. 
+ Full-stack developer looking forward to making the world a better place.
  <br />
  <br />
- 🇵🇱 🏳️‍🌈
+ 🇵🇱 🏳️‍🌈 🇺🇸
 </div>
 <br />
 <div align="center">
