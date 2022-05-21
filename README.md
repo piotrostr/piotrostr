@@ -9,6 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/piotrostr/resume">Resume</a>
+  <a href="https://piotrostr.com">Website</a>
 </div>
 <br />
 <div align="center">
