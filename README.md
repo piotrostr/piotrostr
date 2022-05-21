@@ -4,6 +4,10 @@
 <div align="center">
  Full-stack developer from Płock, Poland, looking forward to making the world a better place.
  In crypto since 2017, passionate about developing smart contracts and deep learning. 
+  
+</div>
+<div align="center">
+  <a href="https://github.com/piotrostr/resume">Resume</a>
 </div>
 <br />
 <div align="center">
