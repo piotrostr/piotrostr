@@ -6,6 +6,7 @@
  In crypto since 2017, passionate about developing smart contracts and deep learning. 
   
 </div>
+<br />
 <div align="center">
   <a href="https://github.com/piotrostr/resume">Resume</a>
 </div>
