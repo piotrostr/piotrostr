@@ -2,7 +2,7 @@
   Piotr Ostrowski
 </h1>
 <div align="center">
- Full-stack developer looking forward to making the world a better place. Pretty much everything on this github is open-source under the MIT license.
+ Full-stack developer looking forward to making the world a better place.
  <br />
  <br />
  🇵🇱 🏳️‍🌈 🇺🇸
