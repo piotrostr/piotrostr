@@ -4,8 +4,6 @@
 <div align="center">
  Full-stack developer looking forward to making the world a better place.
  <br />
- <br />
- 🇵🇱 🏳️‍🌈 🇺🇸
 </div>
 <br />
 <div align="center">
