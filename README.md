@@ -2,7 +2,7 @@
   Piotr Ostrowski
 </h1>
 <div align="center">
- Full-stack developer looking forward to making the world a better place.
+ Full-stack looking forward to making the world a better place.
  <br />
 </div>
 <br />
