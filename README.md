@@ -7,11 +7,6 @@
 </div>
 <br />
 <div align="center">
-  <a href="https://github.com/piotrostr/resume">Resume</a>
-  <a href="https://piotrostr.com">Website</a>
-</div>
-<br />
-<div align="center">
 <img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-open--source-red" />
 <a href="mailto:piotr.ostrowski@aol.com">
  <img src="https://img.shields.io/badge/%F0%9F%93%AB-piotr.ostrowski@aol.com-blue" /> 
